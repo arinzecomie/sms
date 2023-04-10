@@ -1,0 +1,6 @@
+{
+    "require": {
+        "livewire/livewire": "^2.12",
+        "messagebird/php-rest-api": "^3.1"
+    }
+}
